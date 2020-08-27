@@ -1,0 +1,8 @@
+/ev_kart_ert_rtw/
+/slprj/
+
+*.hex
+*.eep
+*.elf
+
+/ev_kart.slxc
